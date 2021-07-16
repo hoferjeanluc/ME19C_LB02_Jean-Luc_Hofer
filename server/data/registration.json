@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f020abc6-74b5-458b-a5a6-17d29abedb12",
+    "firstname": "hans",
+    "lastname": "muster",
+    "username": "hmuster",
+    "email": "hmuster@gmail.com",
+    "mobile": "+41786828428",
+    "password": "hmuster123",
+    "password2": "hmuster123"
+  }
+]
